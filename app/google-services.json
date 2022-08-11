@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097256637545",
+    "project_id": "androidfunfactsapp",
+    "storage_bucket": "androidfunfactsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097256637545:android:3d682badf2ad33efac7ef8",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097256637545-i9b2cubpvasrvrivjmmd5n42f6otdtar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseui_login_sample",
+            "certificate_hash": "70f21c0a47f5a9e75eec1b67e7be0691199cb864"
+          }
+        },
+        {
+          "client_id": "1097256637545-dpsdlj1toehci7l7g5mqnk8v9oluqatl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097256637545-dpsdlj1toehci7l7g5mqnk8v9oluqatl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
